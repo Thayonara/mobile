@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:background="@drawable/bg_bottom_gray"
-        android:text="Pedir ajuda"
+        android:text="@string/ask_for_help"
         android:textColor="@color/orange"
         android:textSize="16dip" />
 
@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:background="@drawable/bg_bottom_gray"
-        android:text="Comentar"
+        android:text="@string/comment"
         android:textColor="@color/blue"
         android:textSize="16dip" />
 

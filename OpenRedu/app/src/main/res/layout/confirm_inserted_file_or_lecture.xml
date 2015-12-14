@@ -23,7 +23,7 @@
 		        android:layout_width="wrap_content"
 	    	    android:layout_height="wrap_content"
 	    	    android:layout_gravity="left"
-	    	    android:text="Cancelar"
+	    	    android:text="@string/cancel"
 	    	    android:textColor="@color/blue"
 	    	    android:background="@drawable/bg_gray"
 	    	    android:layout_margin="7dp" />
@@ -32,7 +32,7 @@
 		   		android:layout_width="wrap_content"
 		   		android:layout_gravity="right"
 		   	    android:layout_height="wrap_content"
-		   	    android:text="Adicionar"
+		   	    android:text="@string/add"
 		   	    android:textColor="@color/blue"
 		   	    android:background="@drawable/bg_gray"
 		   	    android:layout_margin="7dp"/>
@@ -86,7 +86,7 @@
 				    android:layout_height="wrap_content"
 				    android:padding="5dp"
 				    android:layout_gravity="left"
-				    android:text="Título"
+				    android:text="@string/title"
 				    android:textAppearance="?android:attr/textAppearanceLarge"
 				    android:textColor="#999"
 				    android:textSize="12sp" />
@@ -94,7 +94,7 @@
 	        <EditText  
 			    android:id="@+id/etTitleLecture"  
 			    android:layout_height="wrap_content"
-			    android:hint="Digite aqui o nome da aula..."  
+			    android:hint="@string/type_here_class_name"
 			    android:inputType="text"  
 			    android:textSize="12sp"
 			    android:layout_weight="1"
@@ -118,7 +118,7 @@
 			    android:padding="7dp"
 			    android:layout_weight="1"
 			    android:layout_margin="7dp"
-			    android:text="Para onde vai esta aula?"
+			    android:text="@string/where_does_this_class_go"
 			    android:textAppearance="?android:attr/textAppearanceLarge"
 			    android:textColor="#999"
 			    android:textSize="18sp" />

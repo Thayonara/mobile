@@ -27,4 +27,47 @@
     <string name="new_lectures_title">Novas Aulas</string>
     <string name="new_lectures_summary">Novas Aulas nas Disciplinas que participo</string>
 
+    <string name="comment">Comentar</string>
+    <string name="edit">Editar</string>
+    <string name="remove">Remover</string>
+    <string name="ddsv">DDSV</string>
+    <string name="any_folder">Pasta Qualquer</string>
+    <string name="ask_for_help">Pedir ajuda</string>
+    <string name="connection_problems">Problemas na conexão</string>
+    <string name="new_module">Novo módulo</string>
+    <string name="up">Up</string>
+    <string name="type_here_module_name">Digite aqui o nome do módulo...</string>
+    <string name="what_do_you_wanna_add">O que você deseja adicionar?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="module_modularization">Módulo Modularização</string>
+    <string name="support_file">Arquivo de Apoio</string>
+    <string name="new_status">Novos status</string>
+    <string name="index">Índice</string>
+    <string name="add">Adicionar</string>
+    <string name="type_here_class_name">Digite aqui o nome da aula...</string>
+    <string name="type_here_your_description">Digite aqui sua descrição...</string>
+    <string name="empty_course">Esta Disciplina está vazia, será necessário adicionar um Novo Módulo antes.</string>
+    <string name="course_to_learn">Curso para Aprender</string>
+    <string name="two_days_ago">Há dois dias</string>
+    <string name="this_enviroment_is_empty">Este ambiente está vazio, não há cursos</string>
+    <string name="password">Senha</string>
+    <string name="password_recovery_warning">Ao requisitar a recuperação de senha, a sua antiga deixará de existir e uma nova será gerada.</string>
+    <string name="your_password">Sua senha</string>
+    <string name="email_registered">Email Cadastrado</string>
+    <string name="type_registered_email">Digitar o email cadastrado do OpenRedu</string>
+    <string name="empty_folder">Esta pasta está vazia.</string>
+    <string name="show_password">Mostrar Senha</string>
+    <string name="title">Título</string>
+    <string name="forgot">Esqueceu?</string>
+    <string name="back">Voltar</string>
+    <string name="class_view">Utilizaremos um aplicativo do seu dispositivo para a visualização desta Aula.</string>
+    <string name="require_new_password">Requisitar nova senha</string>
+    <string name="access_class">Acessar aula</string>
+    <string name="regiter">Cadastre-se</string>
+    <string name="where_does_this_class_go">Pra onde vai essa aula?</string>
+    <string name="mural">Mural</string>
+    <string name="finish_class">Finalizar Aula</string>
+
+
+
 </resources>

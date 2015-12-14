@@ -49,20 +49,20 @@
 			    <EditText 
 			        android:layout_width="match_parent"
 		      		android:layout_height="wrap_content"
-		      		android:text="Seu login ou email cadastrado"
+		      		android:text="@string/email_registered"
 		      		android:textSize="12sp"
 		      		android:textColor="@color/gray_dark"/>
 			    <TextView 
 			        android:layout_width="match_parent"
 		      		android:layout_height="wrap_content"
-		      		android:text="Senha"
+		      		android:text="@string/password"
 		      		android:layout_marginTop="15dp"
 		      		android:textColor="@color/gray_dark"
 		      		android:textSize="12sp"/>
 			    <EditText 
 			        android:layout_width="match_parent"
 		      		android:layout_height="wrap_content"
-		      		android:text="Sua senha"
+		      		android:text="@string/your_password"
 		      		android:textSize="12sp"
 		      		android:textColor="@color/gray_dark"/>
 		    	<FrameLayout 
@@ -75,7 +75,7 @@
 		    	        android:layout_height="wrap_content"
 		    	        android:layout_gravity="left"
 		    	        android:textSize="12sp"
-		    	        android:text="Mostrar Senha"
+		    	        android:text="@string/show_password"
 		    	        android:textColor="@color/gray_dark" />
 	
 		    	    <TextView 
@@ -86,7 +86,7 @@
 			      		android:textSize="12sp"
 			      		android:clickable="true"
 			      		android:background="@null"
-			      		android:text="Esqueceu?"/>
+			      		android:text="@string/forgot?"/>
 		    	</FrameLayout>
 			</LinearLayout>
 		</LinearLayout>
@@ -102,7 +102,7 @@
 		        android:layout_height="wrap_content"
 		        android:layout_weight="1"
 		        android:textColor="@color/blue"
-		        android:text="Cadastrar-se"
+		        android:text="@string/regiter"
 		        android:background="@drawable/bt_bottom_gray" />
 		
 		    <Button

@@ -49,7 +49,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="0dip"
                     android:layout_weight="1"
-                    android:text="Curso para Aprender"
+                    android:text="@string/course_to_learn"
                     android:textColor="@color/blue" />
 
                 <TextView
@@ -57,7 +57,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="0dip"
                     android:layout_weight="1"
-                    android:text="Há dois dias"
+                    android:text="@string/two_days_ago"
                     android:textColor="@color/gray_light" />
             </LinearLayout>
 

@@ -5,6 +5,6 @@
     android:divider="@color/gray_light"
     android:dividerHeight="1dip"
     android:padding="10dip"
-    android:text="DDSV "
+    android:text="@string/ddsv "
     android:textColor="@color/blue"
     android:textSize="16dip" />

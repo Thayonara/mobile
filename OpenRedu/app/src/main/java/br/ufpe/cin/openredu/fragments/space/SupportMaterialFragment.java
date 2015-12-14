@@ -232,9 +232,9 @@ public class SupportMaterialFragment extends NoConnectNotifiableFragment {
 		AdapterContextMenuInfo ma = (AdapterContextMenuInfo) menuInfo;
 		Object obj = lvFiles.getAdapter().getItem(ma.position);
 		if (obj instanceof Folder) {
-			getActivity().getMenuInflater().inflate(R.drawable.menu, menu);
+			getActivity().getMenuInflater().inflate(R.menu.menu, menu);
 		}else{
-			getActivity().getMenuInflater().inflate(R.drawable.menu_file, menu);
+			getActivity().getMenuInflater().inflate(R.menu.menu_file, menu);
 		}
 	}
 

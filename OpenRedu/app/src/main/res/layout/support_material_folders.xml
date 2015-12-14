@@ -7,7 +7,7 @@
     android:layout_alignParentLeft="true"
     android:gravity="center_vertical"
     android:drawableLeft="@drawable/ic_folder"
-    android:text="Pasta Qualquer"
+    android:text="@string/any_folder"
     android:padding="10dp"
     android:textAppearance="?android:attr/textAppearanceLarge"
     android:textColor="#36ACD5"

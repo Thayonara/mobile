@@ -55,7 +55,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Este Ambiente está vazio, não há Cursos"
+        android:text="@string/this_enviroment_is_empty"
         android:textColor="@color/gray_dark"
         android:visibility="gone" />
 

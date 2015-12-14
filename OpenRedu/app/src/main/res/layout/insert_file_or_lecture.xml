@@ -20,7 +20,7 @@
 		    android:layout_height="wrap_content"
 		    android:padding="10dp"
 		    android:gravity="center"
-		    android:text="O que você deseja adicionar?"
+		    android:text="@string/what_do_you_wanna_add"
 		    android:textAppearance="?android:attr/textAppearanceLarge"
 		    android:textColor="#999"
 		    android:textSize="12sp" />
