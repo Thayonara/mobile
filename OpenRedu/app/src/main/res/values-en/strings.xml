@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenRedu</string>
+    <string name="menu_settings">Settings</string>
+    <!-- Preferences labels -->
+    <string name="pref_category_notifications_key">notifications</string>
+    <string name="pref_category_notifications_title">Notifications</string>
+    <string name="pref_category_environment_key">environment</string>
+    <string name="pref_category_environment_title">Environment</string>
+    <!-- Notifications keys -->
+    <string name="activate_notifications_key">activate_notifications</string>
+    <string name="activate_notifications_title">Notifications</string>
+    <string name="activate_notifications_summary">Activate/Deactivate notification</string>
+
+    <string name="when_answer_me_key">when_answer_me</string>
+    <string name="when_answer_me_title">When answer me</string>
+    <string name="when_answer_me_summary">In comments and requests for help</string>
+
+    <string name="new_courses_key">new_courses</string>
+    <string name="new_courses_title">New courses</string>
+    <string name="new_courses_summary">New Courses at the Environment in which I have participated</string>
+<!--     <string name="new_spaces_key">new_spaces</string> -->
+<!--     <string name="new_spaces_title">New Disciplines</string> -->
+<!--     <string name="new_spaces_summary">New Disciplines in the Courses in which I have participated</string> -->
+    <string name="new_subject_key">new_subjects</string>
+    <string name="new_subject_title">New Subjects</string>
+    <string name="new_subject_summary">New Subjects at the Disciplines in which I have participated</string>
+    <string name="new_lectures_key">new_lectures</string>
+    <string name="new_lectures_title">New Lectures</string>
+    <string name="new_lectures_summary">New Lectures at the Disciplines in which I have participated</string>
+
+
+    <string name="comment">To comment</string>
+    <string name="edit">To edit</string>
+    <string name="remove">To remove</string>
+    <string name="ddsv">DDSV</string>
+    <string name="any_folder">Any Folder</string>
+    <string name="ask_for_help">Ask for help</string>
+    <string name="connection_problems">Connectios problems</string>
+    <string name="new_module">New module</string>
+    <string name="up">Up</string>
+    <string name="type_here_module_name">Type here the module name...</string>
+    <string name="what_do_you_wanna_add">What do you want to add?</string>
+    <string name="cancel">Cancel</string>
+    <string name="module_modularization">Modularization module</string>
+    <string name="support_file">Support file</string>
+    <string name="new_status">New Status</string>
+    <string name="index">Index</string>
+    <string name="add">Add</string>
+    <string name="type_here_class_name">Type here the class name...</string>
+    <string name="type_here_your_description">Type here your description...</string>
+    <string name="empty_course">Empty course. Before, you must add a new module.</string>
+    <string name="course_to_learn">Course to learn.</string>
+    <string name="two_days_ago">Two days ago.</string>
+    <string name="this_enviroment_is_empty">This enviroment is empty.</string>
+    <string name="password">Password</string>
+    <string name="password_recovery_warning">When you to solicit the password recovery, your old cease to exist and a new will be generated.</string>
+    <string name="your_password">Your Password</string>
+    <string name="email_registered">Email Registered</string>
+    <string name="type_registered_email">Type your email registared at the OpenRedu.</string>
+    <string name="empty_folder">This folder is empty.</string>
+    <string name="show_password">Show the Password</string>
+    <string name="title">Title</string>
+    <string name="forgot">Forgot?</string>
+    <string name="back">Come Back</string>
+    <string name="class_view">We will use some application on your device for viewing this Lesson.</string>
+    <string name="require_new_password">Require new password.</string>
+    <string name="access_class">Acess Class</string>
+    <string name="regiter">Register</string>
+    <string name="where_does_this_class_go">Where does this class go?</string>
+    <string name="mural">Mural</string>
+    <string name="finish_class">Finish class.</string>
+
+</resources>
